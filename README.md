@@ -1,16 +1,24 @@
-# expense_tracker
+# 💸 Expense Tracker App (Flutter)
 
-This Expense Tracker was made by Yash Jain, created for personal needs
+A Flutter app to track your daily expenses, set a monthly budget, and view weekly spending in a clean bar chart.
 
-## Getting Started
+## ✨ Features
+- Add, delete daily expenses
+- View total balance and monthly budget
+- Weekly expense bar chart
+- SQLite storage + shared preferences
 
-This project is a starting point for a Flutter application.
+## 📸 Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+| Home | Chart |
+|------|-------|
+| ![home](screenshots/home.png) | ![chart](screenshots/chart.png) |
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📦 Tech Used
+- Flutter
+- Dart
+- sqflite
+- shared_preferences
+- fl_chart
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Getting Started
